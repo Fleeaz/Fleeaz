@@ -1,39 +1,41 @@
 # 0xDavood // Fleeaz 🏴‍☠️
 
 > **ACCESS_LEVEL:** ROOT
-> **ORIGIN:** Pre-Kali Era / BackTrack Legacy
-> **CURRENT_OPS:** Full-stack architecture & System exploitation.
+> **ORIGIN:** Whoppix v2.7 (2005) // BackTrack 1.0 (Slackware-based)
+> **CURRENT_OPS:** Full-stack Architecture & System Hardening
 
 ---
 
 ### [KERNEL_LOG]
 - **Identity:** Davood
-- **Legacy:** Started in the days of WEP cracking and BackTrack 3.
-- **Modus Operandi:** Modular code injection. My `/components/layout` structures are as clean as a wiped log file.
-- **Environment:** Kali Linux / Custom Kernel / Headless.
+- **Legacy:** Initialized during the era of WEP-cracking and Whoppix live CDs. 
+- **Evolution:** From manual Slackware configs to automated Next.js/TypeScript deployments.
+- **Protocol:** High-integrity code. My `/components/layout` architecture is built for persistence and modularity.
+- **Environment:** Kali Linux // Headless // ZSH
 
 ---
 
-### [TOOLKIT]
-`[REDACTED]` **OSINT & Pentesting:** Kali Linux, BackTrack (Legacy), Metasploit  
-`[REDACTED]` **Frontend Ops:** Next.js, TypeScript, Tailwind  
-`[REDACTED]` **Deployment:** Secure Vercel tunnels, Docker containers  
+### [OFFENSIVE_TOOLKIT]
+`[SECURE]` **Legacy Ops:** BackTrack 2/3/4/5, Whoppix, Auditor Security Collection  
+`[SECURE]` **Modern Ops:** Kali Linux, Metasploit, Nmap, Wireshark  
+`[SECURE]` **Development:** Next.js, TypeScript, Tailwind, Node.js  
 
 ---
 
-### [NETWORK_STATS]
+### [SYSTEM_METRICS]
 <p align="left">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Fleeaz&show_icons=true&theme=blood&hide_border=true&count_private=true" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fleeaz&layout=compact&theme=blood&hide_border=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Fleeaz&show_icons=true&theme=blood&hide_border=true&count_private=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fleeaz&layout=compact&theme=blood&hide_border=true" />
 </p>
 
 ---
 
 ### [TERMINATE_SESSION]
-- **Signal:** [ENCRYPTED]
-- **Trace:** Unsuccessful.
-- **Note:** If you see the green squares, the script is still running.
+- **Uplink:** [CONNECTION_LOST]
+- **Trace:** 127.0.0.1
+- **Status:** The quieter you become, the more you are able to hear.
 
 ---
 
-`"The quieter you become, the more you are able to hear."`
+"There is no patch for human stupidity." — Kevin Mitnick"
+`[ERROR]: User 'Fleeaz' has exited the visible web.`
