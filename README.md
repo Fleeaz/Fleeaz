@@ -37,5 +37,8 @@
 
 ---
 
-"There is no patch for human stupidity." — Kevin Mitnick"
+---
+
+`"The quieter you become, the more you are able to hear."`
+
 `[ERROR]: User 'Fleeaz' has exited the visible web.`
