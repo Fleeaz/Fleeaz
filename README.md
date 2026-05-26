@@ -25,7 +25,7 @@ I recently wrote a technical report for **Industrial Mini-SOC**, a controlled cy
 
 [Read the Industrial Mini-SOC project report](projects/industrial-mini-soc-report.pdf)
 
-The report is public. If you want to review the project code, evidence files, or the full project package, contact me and I can share it directly.
+The report is public. If you want to look through the project code, evidence files, or the full project package, contact me and I can share it directly.
 
 ---
 
