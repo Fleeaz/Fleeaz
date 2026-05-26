@@ -19,6 +19,16 @@ I don't take programming too seriously, but I genuinely enjoy writing small scri
 
 ---
 
+**Featured project**
+
+I recently wrote a technical report for **Industrial Mini-SOC**, a controlled cybersecurity lab project around simulated IT/OT monitoring, Python-based detections, incident notes, and selected Wazuh validation paths.
+
+[Read the Industrial Mini-SOC project report](projects/industrial-mini-soc-report.pdf)
+
+The report is public. If you want to review the project code, evidence files, or the full project package, contact me and I can share it directly.
+
+---
+
 *"The quieter you become, the more you are able to hear." — Kali Linux motto*
 
 Feel free to explore my repos — most of them are small experiments or tools I built because I needed them.
